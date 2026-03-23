@@ -12,3 +12,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed security headers configuration
 - Reorganised test fixtures
 - Fixed minor edge case in input handling
+
+## 2026-03-23
+- Added .editorconfig for consistent formatting
+- Checked for memory leaks in long-running path
